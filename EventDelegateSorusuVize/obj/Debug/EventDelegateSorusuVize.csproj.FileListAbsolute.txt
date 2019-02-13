@@ -1,0 +1,6 @@
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\EventDelegateSorusuVize\EventDelegateSorusuVize\bin\Debug\EventDelegateSorusuVize.exe.config
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\EventDelegateSorusuVize\EventDelegateSorusuVize\bin\Debug\EventDelegateSorusuVize.exe
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\EventDelegateSorusuVize\EventDelegateSorusuVize\bin\Debug\EventDelegateSorusuVize.pdb
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\EventDelegateSorusuVize\EventDelegateSorusuVize\obj\Debug\EventDelegateSorusuVize.csprojResolveAssemblyReference.cache
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\EventDelegateSorusuVize\EventDelegateSorusuVize\obj\Debug\EventDelegateSorusuVize.exe
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\EventDelegateSorusuVize\EventDelegateSorusuVize\obj\Debug\EventDelegateSorusuVize.pdb

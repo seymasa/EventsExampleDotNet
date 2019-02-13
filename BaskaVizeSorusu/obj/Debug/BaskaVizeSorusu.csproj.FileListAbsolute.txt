@@ -1,0 +1,5 @@
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\EventDelegateSorusuVize\BaskaVizeSorusu\bin\Debug\BaskaVizeSorusu.exe.config
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\EventDelegateSorusuVize\BaskaVizeSorusu\bin\Debug\BaskaVizeSorusu.exe
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\EventDelegateSorusuVize\BaskaVizeSorusu\bin\Debug\BaskaVizeSorusu.pdb
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\EventDelegateSorusuVize\BaskaVizeSorusu\obj\Debug\BaskaVizeSorusu.exe
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\EventDelegateSorusuVize\BaskaVizeSorusu\obj\Debug\BaskaVizeSorusu.pdb
